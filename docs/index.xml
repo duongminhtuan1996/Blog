@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Docs on My New Hugo Site</title>
-    <link>https//duongminhtuan1996.github.io/Blog/docs/</link>
+    <link>/docs/</link>
     <description>Recent content in Docs on My New Hugo Site</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 26 Mar 2025 02:31:17 +0700</lastBuildDate>
-    <atom:link href="https//duongminhtuan1996.github.io/Blog/docs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>https//duongminhtuan1996.github.io/Blog/docs/test/</link>
+      <link>/docs/test/</link>
       <pubDate>Wed, 26 Mar 2025 02:31:17 +0700</pubDate>
-      <guid>https//duongminhtuan1996.github.io/Blog/docs/test/</guid>
-      <description>&lt;h2 id=&#34;this-is-my-first-time&#34;&gt;This is my first time&lt;/h2&gt;
-&lt;p&gt;Hello world&lt;/p&gt;</description>
+      <guid>/docs/test/</guid>
+      <description>&lt;h1 id=&#34;1-xác-suất&#34;&gt;1. Xác suất&lt;/h1&gt;
+&lt;p&gt;Xác suất là một đại lượng linh hoạt dùng để đo lường sự chắc chắn của một sự kiện. Khi nói đến xác suất, chúng ta nghĩ đến khả năng xảy ra. Lấy ví dụ trong tác vụ phân loại ảnh chó và mèo. Nếu bạn rất chắc chắn rằng bức ảnh đó là một con chó thì bạn sẽ đưa ra xác suất là một giá trị nào đó rất gần 1, chẳng hạn 0.95. Nhưng giả sử bức ảnh bị nhoè và chụp ở khoảng cách rất xa thì bạn không chắc chắn đó là một con chó. Do đó xác suất sẽ giúp bạn đưa ra một lựa chọn lưỡng lự hơn, đó là 0.5 (có thể là chó, mà cũng có thể là mèo).&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
